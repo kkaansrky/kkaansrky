@@ -13,7 +13,7 @@
 <a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="kkaansrkyTwitter"/></a>
 <a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="kaansarikayaLinkedin"/</a>
 </p>
- <p align="center"> <a href="https://kkaansrky.carrd.co/" target="_blank"><img align="center" src="https://svgshare.com/i/Y2g.svg" width=5% height=5% alt="kkaansrkyCard"/></a></p>
+ <p align="center"> <a href="https://kkaansrky.carrd.co/" target="_blank"><img align="center" src="https://svgshare.com/i/Y2g.svg" width=7% height=7% alt="kkaansrkyCard"/></a></p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaansrky&show_icons=true&theme=tokyonight" alt="kkaansrkyStats" /></p>
