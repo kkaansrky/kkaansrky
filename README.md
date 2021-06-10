@@ -10,7 +10,10 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity"/></p>
 
 <h4 align="center">Contact with me:</h3><p align="center">
-<a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="kkaansrky"/></a>
-<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="kaansarikaya"/></a></p>
+<a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="kkaansrkyTwitter"/></a>
+<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="kaansarikayaLinkedin"/</a>
+</p>
+ <p align="center"> <a href="https://kkaansrky.carrd.co/" target="_blank"><img align="center" src="https://svgshare.com/i/Y2g.svg" width=5% height=5% alt="kkaansrkyCard"/></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaansrky&show_icons=true&theme=tokyonight" alt="kkaansrky" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaansrky&show_icons=true&theme=tokyonight" alt="kkaansrkyStats" /></p>
