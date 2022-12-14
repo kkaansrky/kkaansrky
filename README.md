@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Kaan Sarıkaya</h1>
 <h3 align="left">Mobile Developer</h3>
 
-- 🌱 I’m currently working on **Android**
-- 💬 Ask me about **Kotlin and Android**
+- 🔭 I’m currently working on **Android**
+- 🌱 I’m currently developing **Kotlin**
 - 📫 How to reach me **kadirkaansarikaya@gmail.com**
 
 <h4 align="left">Languages and Tools:</h3><p align="left">
