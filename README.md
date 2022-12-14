@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Kaan Sarıkaya</h1>
-<h3 align="left">Android Developer</h3>
+<h3 align="left">Mobile Developer</h3>
+
+- 🌱 I’m currently working on **Android**
+- 💬 Ask me about **Kotlin and Android**
+- 📫 How to reach me **kadirkaansarikaya@gmail.com**
 
 <h4 align="left">Languages and Tools:</h3><p align="left">
 <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android"  width="40"
@@ -16,11 +20,11 @@
       height="40" />
 
 <h4 align="left">Contact with me:</h3><p align="left">
-  <p align="left"> <a href="https://kkaansrky.carrd.co/" target="_blank">kkaansrky.carrd.co</a></p>
-<a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="kkaansrkyTwitter"/></a>
-<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="kaansarikayaLinkedin"/</a>
+  
+<p align="left">
+<a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png" alt="twitter.com/kkaansrky" height="30"
+      width="30"/></a>
+<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="linkedin.com/in/kaansarikaya" height="30"
+      width="30"/</a>
 </p>
- 
-
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkaansrky&show_icons=true&theme=tokyonight" alt="kkaansrkyStats" /></p>
+<a href="https://kkaansrky.carrd.co/" target="_blank">👨‍💻 All my accounts</a>
