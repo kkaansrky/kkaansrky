@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/kkaansrky" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png" alt="twitter.com/kkaansrky" height="30"
       width="30"/></a>
-<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="linkedin.com/in/kaansarikaya" height="30"
+<a href="https://linkedin.com/in/kaansarikaya" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png" alt="linkedin.com/in/kaansarikaya" height="30"
       width="30"/</a>
 </p>
 <a href="https://kkaansrky.carrd.co/" target="_blank">👨‍💻 All my accounts</a>
